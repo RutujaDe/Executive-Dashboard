@@ -6,9 +6,13 @@ Dashboard Description :
 
 Header
 AdventureWorks Logo: Positioned at the top left, showcasing the company’s branding for immediate recognition.
+
 Revenue: Displayed prominently at $24.9M, highlighting the total revenue generated.
+
 Profit: Listed as $10.5M, indicating the overall profit.
+
 Orders: Total number of orders stands at 25.2K.
+
 Return Rate: Presented as 2.2%, showing the percentage of products returned.
 
 Revenue Trending :
