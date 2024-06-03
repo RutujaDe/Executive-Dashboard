@@ -12,6 +12,8 @@ AdventureWorks, a leading retail company, requires a comprehensive and visually 
 - **Profit**: Listed as $10.5M, indicating the overall profit.
 - **Orders**: Total number of orders stands at 25.2K.
 - **Return Rate**: Presented as 2.2%, showing the percentage of products returned.
+- ![image](https://github.com/RutujaDe/Rutuja-Portfolio/assets/171523556/a7af20bc-409d-47ff-91cc-a23544f4e2e0)
+
 
 ### Revenue Trending
 - **Graph**: A line chart illustrating the revenue trend from January 2020 to January 2022. The graph displays a positive upward trend, signifying consistent revenue growth over time.
