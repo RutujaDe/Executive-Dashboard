@@ -5,7 +5,7 @@ AdventureWorks, a leading retail company, requires a comprehensive and visually 
 
 ## Dashboard Overview
 
-### Header
+
 - **AdventureWorks Logo**: Positioned at the top left, showcasing the company’s branding for immediate recognition.
 - **Revenue**: Displayed prominently at $24.9M, highlighting the total revenue generated.
 - **Profit**: Listed as $10.5M, indicating the overall profit.
@@ -42,8 +42,7 @@ This executive dashboard provides a detailed and visually appealing summary of A
 ## Getting Started
 
 ### Prerequisites
-- [List any software or tools required, e.g., Power BI, Excel, or other BI tools]
-
+- Power BI
 ### Installation
 1. Clone the repository:
    ```sh
