@@ -1,5 +1,5 @@
 # AdventureWorks Executive Dashboard
-
+<iframe title="SampleWork_Adventureworks" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ba2ec70c-64f5-4c46-a2e4-b191f513e53e&autoAuth=true&ctid=9be25895-d253-4d8c-b4dc-44ae9b78f884" frameborder="0" allowFullScreen="true"></iframe>
 ## Problem Statement
 AdventureWorks, a leading retail company, requires a comprehensive and visually intuitive executive dashboard to monitor key performance metrics effectively. The goal is to provide executives with a clear overview of the company's financial health, product performance, and sales trends, enabling data-driven decision-making and strategic planning.
 
