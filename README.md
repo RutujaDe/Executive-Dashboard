@@ -1,4 +1,5 @@
 Problem Statement:
+
 AdventureWorks, a leading retail company, requires a comprehensive and visually intuitive executive dashboard to monitor key performance metrics effectively. The goal is to provide executives with a clear overview of the company's financial health, product performance, and sales trends, enabling data-driven decision-making and strategic planning.
 
 Dashboard Description :
