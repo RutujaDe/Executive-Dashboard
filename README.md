@@ -5,6 +5,48 @@ https://app.powerbi.com/reportEmbed?reportId=ba2ec70c-64f5-4c46-a2e4-b191f513e53
 AdventureWorks, a leading retail company, requires a comprehensive and visually intuitive executive dashboard to monitor key performance metrics effectively. The goal is to provide executives with a clear overview of the company's financial health, product performance, and sales trends, enabling data-driven decision-making and strategic planning.
 
 ## Dashboard Overview
+- ![image](https://github.com/RutujaDe/Rutuja-Portfolio/assets/171523556/a7af20bc-409d-47ff-91cc-a23544f4e2e0)
+  This is slicer panel which can be hidden when not needed.
+ ![image](https://github.com/RutujaDe/Rutuja-Portfolio/assets/171523556/8a30ad7a-5998-47b8-9777-7b503fd8148d)
+
+## Panel Description
+This panel in the AdventureWorks dashboard provides quick navigation through various bookmarks, allowing users to directly jump to the related pages within the dashboard. The bookmarks are represented by intuitive icons, each corresponding to a specific section or report.
+
+### Bookmarks and Icons
+The vertical panel on the left side of the dashboard includes the following bookmarks:
+
+![image](https://github.com/RutujaDe/Rutuja-Portfolio/assets/171523556/534ce364-1321-4369-be94-80217044e79a)
+1. **Reset Filter**:
+   - **Icon**: ![Reset Filter Icon](path/to/reset-icon.png)
+   - **Description**: Resets all filters applied in the dashboard to their default state.
+
+2. **Filter Pane**:
+   - **Icon**: ![Filter Pane Icon](path/to/filter-icon.png)
+   - **Description**: Opens the filter pane to allow users to apply specific filters to the data being displayed.
+
+3. **Main Dashboard**:
+   - **Icon**: ![Main Dashboard Icon](path/to/dashboard-icon.png)
+   - **Description**: Directs the user to the main overview dashboard, providing a summary of key performance metrics.
+
+4. **Global Sales**:
+   - **Icon**: ![Global Sales Icon](path/to/global-sales-icon.png)
+   - **Description**: Navigates to the global sales report, showcasing international sales data and trends.
+
+5. **Customer Insights**:
+   - **Icon**: ![Customer Insights Icon](path/to/customer-insights-icon.png)
+   - **Description**: Leads to the customer insights page, offering detailed analysis of customer demographics and behavior.
+
+6. **Employee Performance**:
+   - **Icon**: ![Employee Performance Icon](path/to/employee-performance-icon.png)
+   - **Description**: Opens the employee performance report, displaying metrics related to employee productivity and contributions.
+
+### How to Use
+
+
+- **Navigation**: Click on any icon in the vertical panel to jump directly to the corresponding section of the dashboard.
+- **Reset Filters**: Use the reset filter icon to clear all applied filters and return to the default view.
+- **Apply Filters**: Open the filter pane to refine the data being displayed according to specific criteria.
+
 
 
 - **AdventureWorks Logo**: Positioned at the top left, showcasing the company’s branding for immediate recognition.
@@ -12,7 +54,8 @@ AdventureWorks, a leading retail company, requires a comprehensive and visually 
 - **Profit**: Listed as $10.5M, indicating the overall profit.
 - **Orders**: Total number of orders stands at 25.2K.
 - **Return Rate**: Presented as 2.2%, showing the percentage of products returned.
-- ![image](https://github.com/RutujaDe/Rutuja-Portfolio/assets/171523556/a7af20bc-409d-47ff-91cc-a23544f4e2e0)
+
+- 
 
 
 ### Revenue Trending
